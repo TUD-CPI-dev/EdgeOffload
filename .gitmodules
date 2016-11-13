@@ -1,0 +1,12 @@
+[submodule "EdgeOffload-Master"]
+	path = EdgeOffload-Master
+	url = https://github.com/TUM-CM-dev/EdgeOffload-Master.git
+	branch = master
+[submodule "EdgeOffload-Agent"]
+	path = EdgeOffload-Agent
+	url = https://github.com/TUM-CM-dev/EdgeOffload-Agent.git
+	branch = master
+[submodule "EdgeOffload-App"]
+	path = EdgeOffload-App
+	url = https://github.com/TUM-CM-dev/EdgeOffload-App.git
+	branch = master
